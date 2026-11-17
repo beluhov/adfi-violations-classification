@@ -5,6 +5,7 @@ data/derived/classifier_classes.csv;14491;04e1bd91a696a241c544ca6c4c2bc6db2fe21d
 data/derived/pii_scan.csv;26184;4dfb85923b2c404f1f653ab8ee1efcfd691ff6f288a7ad8604cc8b3ef9c68a26;Prepared when the data were prepared (Sections 2.2.3 and 2.2.4): counts of candidate personal data per report;2026-11-17
 data/derived/reconciliation_summary.csv;3802;e80c6c10728418039f398dde2622a873a3f250698d6151c7a8b9f595e202bff3;Table written by this notebook;2026-11-17
 data/derived/reconciliation_totals.csv;1407;b30d9c521f1ef709b2fd6fe5e2fe872b3ac25450243a9e333246f563a6ad6bbc;Table written by this notebook;2026-11-17
+data/derived/rule_classifier_ci.csv;1644;69abff1f965b1c78d4f1460909b05c71db4215d37ae77a71ec7673d9a1c044a9;Table written by this notebook;2026-11-17
 data/derived/rule_classifier_metrics.csv;14888;3a6c84a6520b822eab5af76e292e3d0218cd3052b61763c2b517098d269469ee;Table written by this notebook;2026-11-17
 fig/F1_reports_per_month.png;132004;e1a6b1de2f99175f8f2244ecec9dbcbcc29881767190a38f23477553459985d9;Figure drawn by this notebook;2026-11-17
 fig/F2_reports_per_directorate.png;73280;13dc419aa9e8ec6faac8b639e4d8b73d92b8dc8900812c08f026b019c4e9ba1a;Figure drawn by this notebook;2026-11-17
@@ -12,3 +13,4 @@ fig/F3_pii_candidates.png;90892;10b7f217b385980d2c65a3fcc3915db8a25533398149bd15
 fig/F4_rows_by_section.png;191082;d557c844d7db40a14549b061928eeb2cb32d2fb81260c6317a184a3b08cf95ed;Figure drawn by this notebook;2026-11-17
 fig/F5_rows_by_class.png;703093;aeb5ee44d0e68378bc4fd69cad6a39f99e29788f955447d6126e5e47802ae7e2;Figure drawn by this notebook;2026-11-17
 fig/F6_reconciliation.png;101404;b9ff3e3e55794e974ac28048ad2d68d7c89536ddc0352c7c83e26fc4a7047349;Figure drawn by this notebook;2026-11-17
+fig/F7_rule_f1_ci.png;127702;ee75df56f133591d5ddb3d5756027ef7bb09487308e4bf2cf51bd099f365fe80;Figure drawn by this notebook;2026-11-17
