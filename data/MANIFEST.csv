@@ -14,3 +14,5 @@ fig/F4_rows_by_section.png;191082;d557c844d7db40a14549b061928eeb2cb32d2fb81260c6
 fig/F5_rows_by_class.png;703093;aeb5ee44d0e68378bc4fd69cad6a39f99e29788f955447d6126e5e47802ae7e2;Figure drawn by this notebook;2026-11-17
 fig/F6_reconciliation.png;101404;b9ff3e3e55794e974ac28048ad2d68d7c89536ddc0352c7c83e26fc4a7047349;Figure drawn by this notebook;2026-11-17
 fig/F7_rule_f1_ci.png;127702;ee75df56f133591d5ddb3d5756027ef7bb09487308e4bf2cf51bd099f365fe80;Figure drawn by this notebook;2026-11-17
+validation/sample_blind.csv;7678;711d4146e731fd997a52371f78d400ca15b701519846358990e49b3edae17134;"Drawn in Section 4.2.3; the column manual_class_index is empty for the annotator";2026-11-17
+validation/sample_design.csv;684;190d74481805e70b073ddf342d3f3302036bbc4ac298d1620151f03be5851ea1;Size of the sample in each stratum (Section 4.2.2), written in Section 4.2.3 after the draw;2026-11-17
