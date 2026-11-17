@@ -4,6 +4,7 @@ data/adfi_reports_meta.csv;214462;fb0913ce014ae9d01837277ed959f39f09ab6b6f4bb874
 data/derived/class_concentration.csv;6206;ec9c5dd8ec67cd41f0075418e17ab051fe930a34a64cdb4e897bfd3c8c8402d1;Table written by this notebook;2026-11-17
 data/derived/classifier_classes.csv;14491;04e1bd91a696a241c544ca6c4c2bc6db2fe21d2a71a84f151db5359a59391c39;Built in Section 2.2.7 from the classifier definition and the classification table;2026-11-17
 data/derived/h1a_sensitivity.csv;340;7d3386f0dfbc97e42b35bb24bf6080147e81bc7732d8fa33ecb7d185a4730048;Table written by this notebook;2026-11-17
+data/derived/heterogeneity_by_class.csv;1377;6c73cfa5dd333f37993e54673b6561b02369f725a5cf9c64e806f826aed65268;Table written by this notebook;2026-11-17
 data/derived/pii_scan.csv;25505;9fce0c7e6ee369f95d4844dc784d490117229e8898e68a8884bddba541281069;Prepared when the data were prepared (Sections 2.2.3 and 2.2.4): counts of candidate personal data per report;2026-11-17
 data/derived/reconciliation_summary.csv;3802;e80c6c10728418039f398dde2622a873a3f250698d6151c7a8b9f595e202bff3;Table written by this notebook;2026-11-17
 data/derived/reconciliation_totals.csv;1407;b30d9c521f1ef709b2fd6fe5e2fe872b3ac25450243a9e333246f563a6ad6bbc;Table written by this notebook;2026-11-17
@@ -18,5 +19,6 @@ fig/F5_rows_by_class.png;703093;aeb5ee44d0e68378bc4fd69cad6a39f99e29788f955447d6
 fig/F6_reconciliation.png;101404;b9ff3e3e55794e974ac28048ad2d68d7c89536ddc0352c7c83e26fc4a7047349;Figure drawn by this notebook;2026-11-17
 fig/F7_rule_f1_ci.png;127702;ee75df56f133591d5ddb3d5756027ef7bb09487308e4bf2cf51bd099f365fe80;Figure drawn by this notebook;2026-11-17
 fig/F8_class_concentration.png;235626;bea5c82c690ec41755d3e31b4f688879bc99fe234c0b3a0b350d0dfe75943a30;Figure drawn by this notebook;2026-11-17
+fig/F9_directorate_shares.png;194364;f307cdc4f649a646ac37616d3340c99c866930fd8ac6c393bde1a81c77abf027;Figure drawn by this notebook;2026-11-17
 validation/sample_blind.csv;7678;711d4146e731fd997a52371f78d400ca15b701519846358990e49b3edae17134;"Drawn in Section 4.2.3; the column manual_class_index is empty for the annotator";2026-11-17
 validation/sample_design.csv;684;190d74481805e70b073ddf342d3f3302036bbc4ac298d1620151f03be5851ea1;Size of the sample in each stratum (Section 4.2.2), written in Section 4.2.3 after the draw;2026-11-17
