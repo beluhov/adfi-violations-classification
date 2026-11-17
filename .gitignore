@@ -361,3 +361,18 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+###############################################################################
+# Project-specific: sources, caches and environments that are not committed
+###############################################################################
+data/raw/
+*.pyproj
+*.jsonl
+.ipynb_checkpoints/
+.virtual_documents/
+.venv*/
+venv/
+.pytest_cache/
+*.bak
+.DS_Store
+Thumbs.db

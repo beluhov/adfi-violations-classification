@@ -1,0 +1,11 @@
+file;size_bytes;sha256;source;date
+data/adfi_classification.csv;977933;5b7aa7a71f373917276828d85856133a292ba37467939da734971c199dc04e0f;Fetched from beluhov/stem-collusion-npvu at commit c5feef1 (SHA-256 checked);2026-11-17
+data/adfi_reports_meta.csv;215023;7d70e6ce2ee1a4260ecd6eea172ec1a49967ed334cdf90278679edd85386dabe;Prepared when the data were prepared (Section 2.2.4) from the register and the texts of the 560 reports;2026-11-17
+data/derived/classifier_classes.csv;14491;04e1bd91a696a241c544ca6c4c2bc6db2fe21d2a71a84f151db5359a59391c39;Built in Section 2.2.7 from the classifier definition and the classification table;2026-11-17
+data/derived/pii_scan.csv;26184;4dfb85923b2c404f1f653ab8ee1efcfd691ff6f288a7ad8604cc8b3ef9c68a26;Prepared when the data were prepared (Sections 2.2.3 and 2.2.4): counts of candidate personal data per report;2026-11-17
+fig/F1_reports_per_month.png;132004;e1a6b1de2f99175f8f2244ecec9dbcbcc29881767190a38f23477553459985d9;Figure drawn by this notebook;2026-11-17
+fig/F2_reports_per_directorate.png;73280;13dc419aa9e8ec6faac8b639e4d8b73d92b8dc8900812c08f026b019c4e9ba1a;Figure drawn by this notebook;2026-11-17
+fig/F3_pii_candidates.png;90892;10b7f217b385980d2c65a3fcc3915db8a25533398149bd150df02351db266c8d;Figure drawn by this notebook;2026-11-17
+fig/F4_rows_by_section.png;191082;d557c844d7db40a14549b061928eeb2cb32d2fb81260c6317a184a3b08cf95ed;Figure drawn by this notebook;2026-11-17
+fig/F5_rows_by_class.png;703093;aeb5ee44d0e68378bc4fd69cad6a39f99e29788f955447d6126e5e47802ae7e2;Figure drawn by this notebook;2026-11-17
+fig/F6_reconciliation.png;101404;b9ff3e3e55794e974ac28048ad2d68d7c89536ddc0352c7c83e26fc4a7047349;Figure drawn by this notebook;2026-11-17
