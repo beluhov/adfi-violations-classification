@@ -1,0 +1,5 @@
+class_index;class_en;rows_violation;rows_with_act;rows_without_act;act_share;act_share_ci_low;act_share_ci_high;reports_violation;rows_no_violation;reports_no_violation
+10.01;Commitment or payment without ex-ante control;22;22;0;1.0;0.8513;1.0;7;5;4
+10.02;Commitment or payment without double signature;20;19;1;0.95;0.7639;0.9911;6;5;4
+10.03;Unestablished procedure for ex-ante control;1;1;0;1.0;0.2065;1.0;1;0;0
+10.04;Unperformed ex-ante control for legality of a procurement above the threshold;0;0;0;;;;0;0;0
