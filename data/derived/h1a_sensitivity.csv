@@ -1,0 +1,4 @@
+unit;n;c10;classes_for_80pct;meets_threshold;role
+violation rows (the unit of H1a);1203;0.7797;11;False;decision (fixed before computation)
+violation rows with an act only;1148;0.7814;11;False;sensitivity (added after the result)
+report × class (each class counted once per report);1095;0.8155;10;True;sensitivity (added after the result)
