@@ -1,0 +1,36 @@
+dimension;group;reports;with_rows;without_rows;share_with_rows;median_chars_with_rows;median_chars_without_rows
+all reports;All reports;560;488;72;0.8714;47620.5;20094.0
+year;2024;17;6;11;0.3529;32434.5;7477.0
+year;2025;217;178;39;0.8203;44026.5;24768.0
+year;2026;326;304;22;0.9325;50489.5;8610.0
+directorate;FID1;45;40;5;0.8889;60075.0;4275.0
+directorate;FID2;30;23;7;0.7667;62521.0;6415.0
+directorate;FID3;105;93;12;0.8857;52073.0;26324.0
+directorate;FID4;96;88;8;0.9167;49746.5;13584.0
+directorate;FID5;86;79;7;0.9186;33871.0;18242.0
+directorate;FID6;94;82;12;0.8723;49732.5;24336.0
+directorate;FID7;104;83;21;0.7981;49405.0;19452.0
+inspection basis (as cited);Art. 5(1), item 4;471;439;32;0.9321;47994.0;20952.5
+inspection basis (as cited);Art. 5(2);46;31;15;0.6739;35930.0;25548.0
+inspection basis (as cited);Art. 5(1), item 1;26;16;10;0.6154;63735.5;16640.0
+inspection basis (as cited);Art. 5(1), item 5;26;10;16;0.3846;115527.0;6758.5
+inspection basis (as cited);Art. 5(1), item 2;2;2;0;1.0;25387.5;
+inspection basis (as cited);Art. 10(1), item 3;1;1;0;1.0;41760.0;
+inspection basis (as cited);Art. 5(1), item 3;1;1;0;1.0;65481.0;
+inspection basis (only this basis);Art. 5(1), item 4;464;432;32;0.931;47989.0;20952.5
+type of school;Basic school;245;220;25;0.898;48540.5;21169.0
+type of school;Secondary school;122;107;15;0.877;52073.0;25548.0
+type of school;Vocational high school;96;77;19;0.8021;45046.0;8512.0
+type of school;Primary school;18;16;2;0.8889;35498.5;26496.5
+type of school;Combined school;17;16;1;0.9412;46885.5;8247.0
+type of school;High school;13;11;2;0.8462;53247.0;13470.0
+type of school;Sports school;11;10;1;0.9091;56551.5;4275.0
+type of school;Language high school;8;6;2;0.75;76088.5;38706.5
+type of school;Science and mathematics high school;7;5;2;0.7143;56529.0;32392.5
+type of school;Technical vocational high school;7;7;0;1.0;48090.0;
+type of school;Profiled high school;5;5;0;1.0;34475.0;
+type of school;Profiled science and mathematics high school;5;3;2;0.6;38953.0;44201.5
+type of school;National educational complex / lyceum;2;1;1;0.5;71901.0;6415.0
+type of school;Secondary language school;2;2;0;1.0;84047.5;
+type of school;Evening secondary school;1;1;0;1.0;47069.0;
+type of school;School, type not stated;1;1;0;1.0;46582.0;

@@ -2,6 +2,7 @@ file;size_bytes;sha256;source;date
 data/adfi_classification.csv;977933;5b7aa7a71f373917276828d85856133a292ba37467939da734971c199dc04e0f;Fetched from beluhov/stem-collusion-npvu at commit c5feef1 (SHA-256 checked);2026-11-17
 data/adfi_reports_meta.csv;214462;fb0913ce014ae9d01837277ed959f39f09ab6b6f4bb874be9802892392208bb1;Prepared when the data were prepared (Section 2.2.4) from the register and the texts of the 560 reports;2026-11-17
 data/derived/class_concentration.csv;6206;ec9c5dd8ec67cd41f0075418e17ab051fe930a34a64cdb4e897bfd3c8c8402d1;Table written by this notebook;2026-11-17
+data/derived/classification_row_provenance.csv;1338;f03e2cc4d078d78ca90ebf4c86097cbdcfd6f21300b599174d24a06b841d58af;Table written by this notebook;2026-11-17
 data/derived/classifier_classes.csv;14491;04e1bd91a696a241c544ca6c4c2bc6db2fe21d2a71a84f151db5359a59391c39;Built in Section 2.2.7 from the classifier definition and the classification table;2026-11-17
 data/derived/ex_ante_control_by_class.csv;512;da21be4277f50236138f8a30e5890e3557a0f71fbcd6777f73c81e9773f7f778;Table written by this notebook;2026-11-17
 data/derived/h1a_sensitivity.csv;340;7d3386f0dfbc97e42b35bb24bf6080147e81bc7732d8fa33ecb7d185a4730048;Table written by this notebook;2026-11-17
@@ -9,6 +10,7 @@ data/derived/heterogeneity_by_class.csv;1377;6c73cfa5dd333f37993e54673b6561b0236
 data/derived/pii_scan.csv;25505;9fce0c7e6ee369f95d4844dc784d490117229e8898e68a8884bddba541281069;Prepared when the data were prepared (Sections 2.2.3 and 2.2.4): counts of candidate personal data per report;2026-11-17
 data/derived/reconciliation_summary.csv;3802;e80c6c10728418039f398dde2622a873a3f250698d6151c7a8b9f595e202bff3;Table written by this notebook;2026-11-17
 data/derived/reconciliation_totals.csv;1407;b30d9c521f1ef709b2fd6fe5e2fe872b3ac25450243a9e333246f563a6ad6bbc;Table written by this notebook;2026-11-17
+data/derived/reports_with_without_rows.csv;2264;d15c93159caeab8cf73c85a3176c7cff43fe9a45a65df4af1624ede41c7126ee;Table written by this notebook;2026-11-17
 data/derived/rule_classifier_ci.csv;1644;69abff1f965b1c78d4f1460909b05c71db4215d37ae77a71ec7673d9a1c044a9;Table written by this notebook;2026-11-17
 data/derived/rule_classifier_metrics.csv;14888;3a6c84a6520b822eab5af76e292e3d0218cd3052b61763c2b517098d269469ee;Table written by this notebook;2026-11-17
 data/derived/tfidf_groupkfold_metrics.csv;14133;0dd5667e5fa859e5c25c9ea3c67485ec2a0cbde8f51573ae6a940f1852938176;Table written by this notebook;2026-11-17

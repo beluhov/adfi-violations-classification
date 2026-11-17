@@ -1,0 +1,26 @@
+column;value;rows_violation;rows_no_violation;rows
+outcome;Violation, with an act;1148;0;1148
+outcome;Violation, without an act;55;0;55
+outcome;No violation;0;621;621
+act_state;Act number in the report;880;0;880
+act_state;Act number restored from the conclusion;109;0;109
+act_state;Act with an unreadable number;159;0;159
+act_state;No act;55;621;676
+confidence;From the conclusion itself;948;393;1341
+confidence;From the assessment in the section;188;29;217
+confidence;From a reading of the text;67;176;243
+confidence;From the title of the check;0;23;23
+basis_source;The conclusion;309;472;781
+basis_source;Description, sub-items and intermediate conclusions;313;0;313
+basis_source;The description proper;165;0;165
+basis_source;The provision or the explicitly described action;127;0;127
+basis_source;Description and intermediate conclusions;110;0;110
+basis_source;The description of the violation;80;0;80
+basis_source;The text before the conclusion;0;77;77
+basis_source;The description proper and the conclusion;58;0;58
+basis_source;The inspector's assessment in the section;18;29;47
+basis_source;The title of the check;0;23;23
+basis_source;The assessed paragraph before the conclusion;0;20;20
+basis_source;The provision;19;0;19
+basis_source;Description;2;0;2
+basis_source;Reading in the original (the description of the violation);2;0;2
