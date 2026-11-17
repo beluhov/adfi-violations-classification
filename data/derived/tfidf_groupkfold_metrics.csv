@@ -1,0 +1,137 @@
+unit;level;label;label_en;support;predicted;tp;fp;fn;precision;recall;f1
+all_findings;section;1;1. Selection of Award Procedure;70;37;37;0;33;1.0;0.5286;0.6916
+all_findings;section;2;2. Subject Matter and Technical Specification;385;266;253;13;132;0.9511;0.6571;0.7773
+all_findings;section;3;3. Requirements for Tenderers;361;419;261;158;100;0.6229;0.723;0.6692
+all_findings;section;4;4. Tender Submission and Evaluation;262;37;35;2;227;0.9459;0.1336;0.2341
+all_findings;section;5;5. Launching the Procurement;38;0;0;0;38;;0.0;0.0
+all_findings;section;6;6. Evaluation Committee Work;79;27;27;0;52;1.0;0.3418;0.5094
+all_findings;section;7;7. Contract Conclusion;99;90;90;0;9;1.0;0.9091;0.9524
+all_findings;section;8;8. Contract Performance;3;0;0;0;3;;0.0;0.0
+all_findings;section;9;9. Publicity and Procurement Dossier;154;115;112;3;42;0.9739;0.7273;0.8327
+all_findings;section;10;10. Financial Management and Control;48;44;44;0;4;1.0;0.9167;0.9565
+all_findings;section;11;11. Breaches of Other Statutes in Procurement Checks;7;0;0;0;7;;0.0;0.0
+all_findings;section;micro;All labels (micro);1506;1035;859;176;647;0.83;0.5704;0.6761
+all_findings;section;macro;Active labels (macro);11;;;;;0.6813;0.4488;0.5112
+all_findings;class;1.01;Splitting of procurements;14;2;2;0;12;1.0;0.1429;0.25
+all_findings;class;1.02;Direct award at a value requiring a call or procedure;16;0;0;0;16;;0.0;0.0
+all_findings;class;1.03;Invitation to specific persons or direct negotiation without legal basis;4;0;0;0;4;;0.0;0.0
+all_findings;class;1.04;Negotiation without evidence sent to PPA Agency;2;0;0;0;2;;0.0;0.0
+all_findings;class;1.05;Works awarded directly without a written contract;0;0;0;0;0;;;
+all_findings;class;1.06;Estimated value determined without up-to-date market research;34;17;17;0;17;1.0;0.5;0.6667
+all_findings;class;2.01;Market consultations without disclosure;51;33;33;0;18;1.0;0.6471;0.7857
+all_findings;class;2.02;Heterogeneous supplies in a procurement without lots;213;77;66;11;147;0.8571;0.3099;0.4552
+all_findings;class;2.03;Heterogeneous supplies in a single lot of a divided procurement;47;0;0;0;47;;0.0;0.0
+all_findings;class;2.04;Tailored specifications – brand or model specified;18;0;0;0;18;;0.0;0.0
+all_findings;class;2.05;Omitted environmental requirements for products;57;50;50;0;7;1.0;0.8772;0.9346
+all_findings;class;2.06;Standard required for the supplied goods;1;0;0;0;1;;0.0;0.0
+all_findings;class;3.01;Requirement for own service base or support system;176;0;0;0;176;;0.0;0.0
+all_findings;class;3.02;Information security or service management certificate required from the tenderer in a supply procurement (ISO/IEC 27001, 27701, 20000-1);168;0;0;0;168;;0.0;0.0
+all_findings;class;3.03;Quality, environmental, or occupational health and safety certificate required from the tenderer (ISO 9001, 14001, 45001);108;0;0;0;108;;0.0;0.0
+all_findings;class;3.04;Requirements for the tenderer's team;57;0;0;0;57;;0.0;0.0
+all_findings;class;3.05;Requirement for experience in similar activities;45;0;0;0;45;;0.0;0.0
+all_findings;class;3.06;Turnover requirement;22;0;0;0;22;;0.0;0.0
+all_findings;class;3.07;Requirement for manufacturer authorization;12;0;0;0;12;;0.0;0.0
+all_findings;class;3.08;Requirement for registration that is not due or is excessive;2;0;0;0;2;;0.0;0.0
+all_findings;class;3.09;EcoVadis sustainability rating required from the tenderer;66;0;0;0;66;;0.0;0.0
+all_findings;class;3.10;Requirement for training by an organization with a minister-approved program;2;0;0;0;2;;0.0;0.0
+all_findings;class;3.11;Narrowed evidence for a selection criterion;9;0;0;0;9;;0.0;0.0
+all_findings;class;4.01;Requirements for the content of the technical proposal (work program, strategy, risk management approach) as a condition for admission;220;9;9;0;211;1.0;0.0409;0.0786
+all_findings;class;4.02;Unlawful evaluation methodology;17;0;0;0;17;;0.0;0.0
+all_findings;class;4.03;Maximum unit prices as a condition for admission;3;0;0;0;3;;0.0;0.0
+all_findings;class;4.04;Declaration under Art. 47(3) PPA required with the tender;24;10;10;0;14;1.0;0.4167;0.5882
+all_findings;class;4.05;Design or visualization of the goods required with the tender;1;0;0;0;1;;0.0;0.0
+all_findings;class;5.01;Incomplete contract notice or call;29;0;0;0;29;;0.0;0.0
+all_findings;class;5.02;Unlawfully determined guarantees in the contract notice or draft contract;7;0;0;0;7;;0.0;0.0
+all_findings;class;5.03;Change of opening date without notice;1;0;0;0;1;;0.0;0.0
+all_findings;class;5.04;Contract duration over 5 years without reasons;0;0;0;0;0;;;
+all_findings;class;5.05;Tender submission deadline on a non-working day;2;0;0;0;2;;0.0;0.0
+all_findings;class;6.01;"Appointment and composition of the committee; conflict-of-interest declaration not submitted on time";57;26;26;0;31;1.0;0.4561;0.6265
+all_findings;class;6.02;Admission, evaluation, or ranking in deviation from the conditions;22;0;0;0;22;;0.0;0.0
+all_findings;class;7.01;Contract concluded without documents or without a fulfilled condition;94;89;89;0;5;1.0;0.9468;0.9727
+all_findings;class;7.02;Contract different from the draft and from the tender;3;0;0;0;3;;0.0;0.0
+all_findings;class;7.03;Contract concluded before entry into force of the launch decision;2;0;0;0;2;;0.0;0.0
+all_findings;class;8.01;Contract modification without legal basis;3;0;0;0;3;;0.0;0.0
+all_findings;class;9.01;Award notice not sent on time in a procedure;55;41;40;1;15;0.9756;0.7273;0.8333
+all_findings;class;9.02;Award notice not sent on time in a call for tenders;18;11;11;0;7;1.0;0.6111;0.7586
+all_findings;class;9.03;Contract completion or modification notice not sent on time;20;9;9;0;11;1.0;0.45;0.6207
+all_findings;class;9.04;Contract or annex not published on time;19;7;7;0;12;1.0;0.3684;0.5385
+all_findings;class;9.05;Committee protocols and reports not published on time;11;0;0;0;11;;0.0;0.0
+all_findings;class;9.06;Decision, contract notice or call, documentation, invitations, or clarifications not published on time;29;0;0;0;29;;0.0;0.0
+all_findings;class;9.07;Incomplete procurement dossier;2;0;0;0;2;;0.0;0.0
+all_findings;class;10.01;Commitment or payment without ex-ante control;27;10;10;0;17;1.0;0.3704;0.5405
+all_findings;class;10.02;Commitment or payment without double signature;25;3;3;0;22;1.0;0.12;0.2143
+all_findings;class;10.03;Unestablished procedure for ex-ante control;1;0;0;0;1;;0.0;0.0
+all_findings;class;10.04;Unperformed ex-ante control for legality of a procurement above the threshold;0;0;0;0;0;;;
+all_findings;class;11.01;Upcoming payment notification not sent on time via IS Public Payments;4;0;0;0;4;;0.0;0.0
+all_findings;class;11.02;Payment without confirmation from NRA and Customs Agency;2;0;0;0;2;;0.0;0.0
+all_findings;class;11.03;Concluded contract notification not sent on time via IS Public Payments;1;0;0;0;1;;0.0;0.0
+all_findings;class;micro;All labels (micro);1823;394;382;12;1441;0.9695;0.2095;0.3446
+all_findings;class;macro;Active labels (macro);50;;;;;0.2967;0.1397;0.1773
+violation_findings;section;1;1. Selection of Award Procedure;27;11;11;0;16;1.0;0.4074;0.5789
+violation_findings;section;2;2. Subject Matter and Technical Specification;162;85;80;5;82;0.9412;0.4938;0.6478
+violation_findings;section;3;3. Requirements for Tenderers;238;306;177;129;61;0.5784;0.7437;0.6507
+violation_findings;section;4;4. Tender Submission and Evaluation;194;10;9;1;185;0.9;0.0464;0.0882
+violation_findings;section;5;5. Launching the Procurement;8;0;0;0;8;;0.0;0.0
+violation_findings;section;6;6. Evaluation Committee Work;4;2;2;0;2;1.0;0.5;0.6667
+violation_findings;section;7;7. Contract Conclusion;84;77;77;0;7;1.0;0.9167;0.9565
+violation_findings;section;8;8. Contract Performance;2;0;0;0;2;;0.0;0.0
+violation_findings;section;9;9. Publicity and Procurement Dossier;125;109;106;3;19;0.9725;0.848;0.906
+violation_findings;section;10;10. Financial Management and Control;43;43;43;0;0;1.0;1.0;1.0
+violation_findings;section;11;11. Breaches of Other Statutes in Procurement Checks;7;0;0;0;7;;0.0;0.0
+violation_findings;section;micro;All labels (micro);894;643;505;138;389;0.7854;0.5649;0.6571
+violation_findings;section;macro;Active labels (macro);11;;;;;0.672;0.4505;0.4995
+violation_findings;class;1.01;Splitting of procurements;10;2;2;0;8;1.0;0.2;0.3333
+violation_findings;class;1.02;Direct award at a value requiring a call or procedure;12;0;0;0;12;;0.0;0.0
+violation_findings;class;1.03;Invitation to specific persons or direct negotiation without legal basis;3;0;0;0;3;;0.0;0.0
+violation_findings;class;1.04;Negotiation without evidence sent to PPA Agency;2;0;0;0;2;;0.0;0.0
+violation_findings;class;1.05;Works awarded directly without a written contract;0;0;0;0;0;;;
+violation_findings;class;1.06;Estimated value determined without up-to-date market research;0;0;0;0;0;;;
+violation_findings;class;2.01;Market consultations without disclosure;7;3;3;0;4;1.0;0.4286;0.6
+violation_findings;class;2.02;Heterogeneous supplies in a procurement without lots;113;43;41;2;72;0.9535;0.3628;0.5256
+violation_findings;class;2.03;Heterogeneous supplies in a single lot of a divided procurement;6;0;0;0;6;;0.0;0.0
+violation_findings;class;2.04;Tailored specifications – brand or model specified;5;0;0;0;5;;0.0;0.0
+violation_findings;class;2.05;Omitted environmental requirements for products;31;29;29;0;2;1.0;0.9355;0.9667
+violation_findings;class;2.06;Standard required for the supplied goods;0;0;0;0;0;;;
+violation_findings;class;3.01;Requirement for own service base or support system;171;0;0;0;171;;0.0;0.0
+violation_findings;class;3.02;Information security or service management certificate required from the tenderer in a supply procurement (ISO/IEC 27001, 27701, 20000-1);141;0;0;0;141;;0.0;0.0
+violation_findings;class;3.03;Quality, environmental, or occupational health and safety certificate required from the tenderer (ISO 9001, 14001, 45001);36;0;0;0;36;;0.0;0.0
+violation_findings;class;3.04;Requirements for the tenderer's team;55;0;0;0;55;;0.0;0.0
+violation_findings;class;3.05;Requirement for experience in similar activities;42;0;0;0;42;;0.0;0.0
+violation_findings;class;3.06;Turnover requirement;15;0;0;0;15;;0.0;0.0
+violation_findings;class;3.07;Requirement for manufacturer authorization;12;0;0;0;12;;0.0;0.0
+violation_findings;class;3.08;Requirement for registration that is not due or is excessive;2;0;0;0;2;;0.0;0.0
+violation_findings;class;3.09;EcoVadis sustainability rating required from the tenderer;66;0;0;0;66;;0.0;0.0
+violation_findings;class;3.10;Requirement for training by an organization with a minister-approved program;2;0;0;0;2;;0.0;0.0
+violation_findings;class;3.11;Narrowed evidence for a selection criterion;2;0;0;0;2;;0.0;0.0
+violation_findings;class;4.01;Requirements for the content of the technical proposal (work program, strategy, risk management approach) as a condition for admission;182;6;6;0;176;1.0;0.033;0.0638
+violation_findings;class;4.02;Unlawful evaluation methodology;11;0;0;0;11;;0.0;0.0
+violation_findings;class;4.03;Maximum unit prices as a condition for admission;3;0;0;0;3;;0.0;0.0
+violation_findings;class;4.04;Declaration under Art. 47(3) PPA required with the tender;0;0;0;0;0;;;
+violation_findings;class;4.05;Design or visualization of the goods required with the tender;1;0;0;0;1;;0.0;0.0
+violation_findings;class;5.01;Incomplete contract notice or call;4;0;0;0;4;;0.0;0.0
+violation_findings;class;5.02;Unlawfully determined guarantees in the contract notice or draft contract;1;0;0;0;1;;0.0;0.0
+violation_findings;class;5.03;Change of opening date without notice;1;0;0;0;1;;0.0;0.0
+violation_findings;class;5.04;Contract duration over 5 years without reasons;0;0;0;0;0;;;
+violation_findings;class;5.05;Tender submission deadline on a non-working day;2;0;0;0;2;;0.0;0.0
+violation_findings;class;6.01;"Appointment and composition of the committee; conflict-of-interest declaration not submitted on time";2;1;1;0;1;1.0;0.5;0.6667
+violation_findings;class;6.02;Admission, evaluation, or ranking in deviation from the conditions;2;0;0;0;2;;0.0;0.0
+violation_findings;class;7.01;Contract concluded without documents or without a fulfilled condition;79;76;76;0;3;1.0;0.962;0.9806
+violation_findings;class;7.02;Contract different from the draft and from the tender;3;0;0;0;3;;0.0;0.0
+violation_findings;class;7.03;Contract concluded before entry into force of the launch decision;2;0;0;0;2;;0.0;0.0
+violation_findings;class;8.01;Contract modification without legal basis;2;0;0;0;2;;0.0;0.0
+violation_findings;class;9.01;Award notice not sent on time in a procedure;53;40;39;1;14;0.975;0.7358;0.8387
+violation_findings;class;9.02;Award notice not sent on time in a call for tenders;18;11;11;0;7;1.0;0.6111;0.7586
+violation_findings;class;9.03;Contract completion or modification notice not sent on time;20;9;9;0;11;1.0;0.45;0.6207
+violation_findings;class;9.04;Contract or annex not published on time;19;7;7;0;12;1.0;0.3684;0.5385
+violation_findings;class;9.05;Committee protocols and reports not published on time;10;0;0;0;10;;0.0;0.0
+violation_findings;class;9.06;Decision, contract notice or call, documentation, invitations, or clarifications not published on time;4;0;0;0;4;;0.0;0.0
+violation_findings;class;9.07;Incomplete procurement dossier;1;0;0;0;1;;0.0;0.0
+violation_findings;class;10.01;Commitment or payment without ex-ante control;22;10;10;0;12;1.0;0.4545;0.625
+violation_findings;class;10.02;Commitment or payment without double signature;20;3;3;0;17;1.0;0.15;0.2609
+violation_findings;class;10.03;Unestablished procedure for ex-ante control;1;0;0;0;1;;0.0;0.0
+violation_findings;class;10.04;Unperformed ex-ante control for legality of a procurement above the threshold;0;0;0;0;0;;;
+violation_findings;class;11.01;Upcoming payment notification not sent on time via IS Public Payments;4;0;0;0;4;;0.0;0.0
+violation_findings;class;11.02;Payment without confirmation from NRA and Customs Agency;2;0;0;0;2;;0.0;0.0
+violation_findings;class;11.03;Concluded contract notification not sent on time via IS Public Payments;1;0;0;0;1;;0.0;0.0
+violation_findings;class;micro;All labels (micro);1203;240;237;3;966;0.9875;0.197;0.3285
+violation_findings;class;macro;Active labels (macro);47;;;;;0.2751;0.1317;0.1655
