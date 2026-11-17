@@ -1,0 +1,54 @@
+class_index;class_en;observed_viol_rows;observed_noviol_rows;zero_count_class
+1.01;Splitting of procurements;10;4;0
+1.02;Direct award at a value requiring a call or procedure;12;4;0
+1.03;Invitation to specific persons or direct negotiation without legal basis;3;1;0
+1.04;Negotiation without evidence sent to PPA Agency;2;0;0
+1.05;Works awarded directly without a written contract;0;0;1
+1.06;Estimated value determined without up-to-date market research;0;34;0
+2.01;Market consultations without disclosure;7;44;0
+2.02;Heterogeneous supplies in a procurement without lots;113;101;0
+2.03;Heterogeneous supplies in a single lot of a divided procurement;6;41;0
+2.04;Tailored specifications – brand or model specified;5;13;0
+2.05;Omitted environmental requirements for products;31;26;0
+2.06;Standard required for the supplied goods;0;1;0
+3.01;Requirement for own service base or support system;171;5;0
+3.02;Information security or service management certificate required from the tenderer in a supply procurement (ISO/IEC 27001, 27701, 20000-1);141;27;0
+3.03;Quality, environmental, or occupational health and safety certificate required from the tenderer (ISO 9001, 14001, 45001);36;72;0
+3.04;Requirements for the tenderer's team;55;2;0
+3.05;Requirement for experience in similar activities;42;3;0
+3.06;Turnover requirement;15;7;0
+3.07;Requirement for manufacturer authorization;12;0;0
+3.08;Requirement for registration that is not due or is excessive;2;0;0
+3.09;EcoVadis sustainability rating required from the tenderer;66;0;0
+3.10;Requirement for training by an organization with a minister-approved program;2;0;0
+3.11;Narrowed evidence for a selection criterion;2;7;0
+4.01;Requirements for the content of the technical proposal (work program, strategy, risk management approach) as a condition for admission;182;38;0
+4.02;Unlawful evaluation methodology;11;6;0
+4.03;Maximum unit prices as a condition for admission;3;0;0
+4.04;Declaration under Art. 47(3) PPA required with the tender;0;24;0
+4.05;Design or visualization of the goods required with the tender;1;0;0
+5.01;Incomplete contract notice or call;4;25;0
+5.02;Unlawfully determined guarantees in the contract notice or draft contract;1;6;0
+5.03;Change of opening date without notice;1;0;0
+5.04;Contract duration over 5 years without reasons;0;0;1
+5.05;Tender submission deadline on a non-working day;2;0;0
+6.01;"Appointment and composition of the committee; conflict-of-interest declaration not submitted on time";2;55;0
+6.02;Admission, evaluation, or ranking in deviation from the conditions;2;20;0
+7.01;Contract concluded without documents or without a fulfilled condition;79;15;0
+7.02;Contract different from the draft and from the tender;3;0;0
+7.03;Contract concluded before entry into force of the launch decision;2;0;0
+8.01;Contract modification without legal basis;2;1;0
+9.01;Award notice not sent on time in a procedure;53;2;0
+9.02;Award notice not sent on time in a call for tenders;18;0;0
+9.03;Contract completion or modification notice not sent on time;20;0;0
+9.04;Contract or annex not published on time;19;0;0
+9.05;Committee protocols and reports not published on time;10;1;0
+9.06;Decision, contract notice or call, documentation, invitations, or clarifications not published on time;4;25;0
+9.07;Incomplete procurement dossier;1;1;0
+10.01;Commitment or payment without ex-ante control;22;5;0
+10.02;Commitment or payment without double signature;20;5;0
+10.03;Unestablished procedure for ex-ante control;1;0;0
+10.04;Unperformed ex-ante control for legality of a procurement above the threshold;0;0;1
+11.01;Upcoming payment notification not sent on time via IS Public Payments;4;0;0
+11.02;Payment without confirmation from NRA and Customs Agency;2;0;0
+11.03;Concluded contract notification not sent on time via IS Public Payments;1;0;0

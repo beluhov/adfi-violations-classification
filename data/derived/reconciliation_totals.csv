@@ -1,0 +1,25 @@
+table;metric;observed;expected;diff;source
+totals;Reports;560;560;0;Beluhov (2026), Section 4.2.1
+totals;Reports with rows;488;488;0;Beluhov (2026), Section 4.2.1
+totals;Reports without rows;72;72;0;Beluhov (2026), Section 4.2.1
+totals;Reports with a violation;410;;;
+totals;Reports with a conclusion of no violation;287;;;
+totals;Rows;1824;1824;0;Beluhov (2026), Section 4.2.1
+totals;Violation rows;1203;;;
+totals;No-violation rows;621;;;
+totals;Findings;1373;1373;0;Beluhov (2026), Section 4.2.1
+totals;Findings in more than one class;229;;;
+totals;Violations;784;;;
+totals;Violations with an act;739;739;0;Beluhov (2026), Section 4.2.1
+totals;Violations without an act;45;45;0;Beluhov (2026), Section 4.2.1
+totals;Conclusions of no violation;589;589;0;Beluhov (2026), Section 4.2.1
+totals;Distinct act cells;644;644;0;Beluhov (2026), Section 4.2.7
+totals;Distinct act numbers;706;;;
+confidence / violation rows;from the conclusion itself;948;;;
+confidence / violation rows;from the assessment in the section;188;;;
+confidence / violation rows;from a reading of the text;67;;;
+confidence / violation rows;from the title of the check;0;;;
+confidence / no-violation rows;from the conclusion itself;393;;;
+confidence / no-violation rows;from the assessment in the section;29;;;
+confidence / no-violation rows;from a reading of the text;176;;;
+confidence / no-violation rows;from the title of the check;23;;;
