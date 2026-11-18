@@ -1,0 +1,154 @@
+part;question;measure;value;interval_low;interval_high;interval_method;decision
+Section 2;data and classifier;reports in the register;560;;;none;none
+Section 2;data and classifier;reports with rows;488;;;none;none
+Section 2;data and classifier;reports without rows;72;;;none;none
+Section 2;data and classifier;rows in the table;1824;;;none;none
+Section 2;data and classifier;violation rows;1203;;;none;none
+Section 2;data and classifier;rows without a violation;621;;;none;none
+Section 2;data and classifier;findings;1373;;;none;none
+Section 2;data and classifier;findings with a violation;784;;;none;none
+Section 2;data and classifier;findings without a violation;589;;;none;none
+Section 2;data and classifier;verbatim columns, e-mail addresses;0;;;none;none
+Section 2;data and classifier;verbatim columns, telephone numbers;0;;;none;none
+Section 2;data and classifier;verbatim columns, explicit labels ЕГН;0;;;none;none
+Section 2;data and classifier;verbatim columns, checksum candidates;0;;;none;none
+Section 2;data and classifier;verbatim columns, names after a role noun (candidates);230;;;none;none
+Section 2;data and classifier;verbatim columns, replaced names [име];27;;;none;none
+Section 5;data and classifier;reports with a violation row;410;;;none;none
+Section 5;data and classifier;share of reports with a violation row;0.7321;0.694;0.7671;Wilson;none
+Section 5;concentration (H1a);C(10), share of violation rows in the ten largest classes;0.7797;0.7436;0.821;cluster bootstrap;rejected
+Section 5;concentration (H1a);violation rows in the ten largest classes;938;;;none;none
+Section 5;concentration (H1a);classes needed for 0.80 of the violation rows;11;9.0;14.0;cluster bootstrap (minimum and maximum);none
+Section 5;concentration (H1a);median of the classes needed for 0.80 over the replications;11.0;;;none;none
+Section 5;concentration (H1a);share of replications with C(10) of 0.80 or more;0.1995;;;none;none
+Section 5;concentration (H1a);cumulative share with the eleventh class;0.8055;;;none;none
+Section 5;concentration (H1a);C(10), violation rows with an act only;0.7814;;;none;none
+Section 5;concentration (H1a);classes needed for 0.80, violation rows with an act only;11;;;none;none
+Section 5;concentration (H1a);C(10), report × class (each class counted once per report);0.8155;;;none;none
+Section 5;concentration (H1a);classes needed for 0.80, report × class (each class counted once per report);10;;;none;none
+Section 5;concentration (H1a);violation rows in the four largest classes;607;;;none;none
+Section 5;concentration (H1a);share of violation rows in the four largest classes;0.5046;;;none;none
+Section 5;concentration (H1a);violation rows in class 4.01;182;;;none;none
+Section 5;concentration (H1a);share of violation rows in class 4.01;0.1513;0.1322;0.1726;Wilson;none
+Section 5;concentration (H1a);violation rows, statute: PPA;1094;;;none;none
+Section 5;concentration (H1a);violation rows, statute: FMCPSA;43;;;none;none
+Section 5;concentration (H1a);violation rows, statute: RIPPA;56;;;none;none
+Section 5;concentration (H1a);violation rows, statute: TSIPC;9;;;none;none
+Section 5;concentration (H1a);violation rows, statute: no statute cited;17;;;none;none
+Section 5;concentration (H1a);share of violation rows, statute: PPA;0.9094;0.8918;0.9243;Wilson;none
+Section 6;directorates (H1b);classes that meet the minimum of units;6;;;none;none
+Section 6;directorates (H1b);classes with q below the level;3;;;none;confirmed
+Section 6;directorates (H1b);Cramér's V, class 2.02;0.4457;;;none;none
+Section 6;directorates (H1b);q, class 2.02;0.0003;;;none;q < 0.05
+Section 6;directorates (H1b);Cramér's V, class 2.05;0.4574;;;none;none
+Section 6;directorates (H1b);q, class 2.05;0.0841;;;none;q >= 0.05
+Section 6;directorates (H1b);Cramér's V, class 3.02;0.4619;;;none;none
+Section 6;directorates (H1b);q, class 3.02;0.0003;;;none;q < 0.05
+Section 6;directorates (H1b);Cramér's V, class 3.03;0.4288;;;none;none
+Section 6;directorates (H1b);q, class 3.03;0.0076;;;none;q < 0.05
+Section 6;directorates (H1b);Cramér's V, class 4.01;0.1921;;;none;none
+Section 6;directorates (H1b);q, class 4.01;0.268;;;none;q >= 0.05
+Section 6;directorates (H1b);Cramér's V, class 7.01;0.3628;;;none;none
+Section 6;directorates (H1b);q, class 7.01;0.0966;;;none;q >= 0.05
+Section 7;ex-ante control;violation rows of Section 10;43;;;none;none
+Section 7;ex-ante control;share of violation rows of Section 10;0.0357;0.0266;0.0478;Wilson;none
+Section 7;ex-ante control;share of violation rows of Section 10;0.0357;0.0146;0.0614;cluster bootstrap;none
+Section 7;ex-ante control;reports with a violation row of Section 10;11;;;none;none
+Section 7;ex-ante control;violation rows, class 10.01;22;;;none;none
+Section 7;ex-ante control;reports with a violation row, class 10.01;7;;;none;none
+Section 7;ex-ante control;violation rows, class 10.02;20;;;none;none
+Section 7;ex-ante control;reports with a violation row, class 10.02;6;;;none;none
+Section 7;ex-ante control;violation rows, class 10.03;1;;;none;none
+Section 7;ex-ante control;reports with a violation row, class 10.03;1;;;none;none
+Section 7;ex-ante control;violation rows, class 10.04;0;;;none;none
+Section 7;ex-ante control;reports with a violation row, class 10.04;0;;;none;none
+Section 7;ex-ante control;violation rows of Section 10 with an act;42;;;none;none
+Section 7;ex-ante control;share of violation rows of Section 10 with an act;0.9767;0.8794;0.9959;Wilson;none
+Section 7;ex-ante control;violation rows of Section 10 separated from the procurement rules;0;;;none;none
+Section 3;checks of the classification;Check 1, classes whose rules cite Art. 2(2) of the PPA;18;;;none;none
+Section 3;checks of the classification;Check 1, section, micro precision;0.5201;0.503;0.5372;cluster bootstrap;none
+Section 8;checks of the classification;Check 3, section, micro precision;0.83;;;none;none
+Section 3;checks of the classification;Check 1, section, micro recall;0.8599;0.8403;0.8795;cluster bootstrap;none
+Section 8;checks of the classification;Check 3, section, micro recall;0.5704;;;none;none
+Section 3;checks of the classification;Check 1, section, micro f1;0.6481;0.6332;0.6634;cluster bootstrap;none
+Section 8;checks of the classification;Check 3, section, micro f1;0.6761;;;none;none
+Section 8;checks of the classification;Check 3, section, findings with an empty prediction;345;;;none;none
+Section 3;checks of the classification;Check 1, class, micro precision;0.1268;0.12;0.1341;cluster bootstrap;none
+Section 8;checks of the classification;Check 3, class, micro precision;0.9695;;;none;none
+Section 3;checks of the classification;Check 1, class, micro recall;0.8618;0.8426;0.8808;cluster bootstrap;none
+Section 8;checks of the classification;Check 3, class, micro recall;0.2095;;;none;none
+Section 3;checks of the classification;Check 1, class, micro f1;0.2211;0.2106;0.2321;cluster bootstrap;none
+Section 8;checks of the classification;Check 3, class, micro f1;0.3446;;;none;none
+Section 8;checks of the classification;Check 3, class, findings with an empty prediction;981;;;none;none
+Section 4;checks of the classification;Check 2, rows verified against the text of the ADFI;1824;;;none;none
+Section 4;checks of the classification;Check 2, rows with an empty basis;0;;;none;none
+Section 4;checks of the classification;Check 2, rows with an empty conclusion;0;;;none;none
+Section 4;checks of the classification;Check 2, rows taken directly from the text of the ADFI, all rows;1581;;;none;none
+Section 4;checks of the classification;Check 2, share taken directly from the text of the ADFI, all rows;0.8668;0.8504;0.8816;Wilson;none
+Section 4;checks of the classification;Check 2, rows taken directly from the text of the ADFI, rows with a violation;1136;;;none;none
+Section 4;checks of the classification;Check 2, share taken directly from the text of the ADFI, rows with a violation;0.9443;0.9299;0.9559;Wilson;none
+Section 4;checks of the classification;Check 2, rows taken directly from the text of the ADFI, rows without a violation;445;;;none;none
+Section 4;checks of the classification;Check 2, share taken directly from the text of the ADFI, rows without a violation;0.7166;0.6799;0.7506;Wilson;none
+Section 10;reliability of the classification;direct share, class 2.02, rows with a violation;0.9823;0.9378;0.9951;Wilson;none
+Section 10;reliability of the classification;direct share, class 2.02, rows without a violation;0.9109;0.8393;0.9524;Wilson;none
+Section 10;reliability of the classification;direct share, class 3.02, rows with a violation;0.9858;0.9498;0.9961;Wilson;none
+Section 10;reliability of the classification;direct share, class 3.02, rows without a violation;0.1111;0.0385;0.2806;Wilson;none
+Section 10;reliability of the classification;direct share, class 3.03, rows with a violation;1.0;0.9036;1.0;Wilson;none
+Section 10;reliability of the classification;direct share, class 3.03, rows without a violation;0.2361;0.153;0.346;Wilson;none
+Section 10;reliability of the classification;sections with a lower direct share of the rows with a violation;4;;;none;none
+Section 10;reliability of the classification;rows with a violation in the sections with a lower direct share;167;;;none;none
+Section 10;reliability of the classification;share of the rows with a violation in the sections with a lower direct share;0.1388;;;none;none
+Section 10;reliability of the classification;Check 1, violation findings, section, micro f1;0.6862;0.6667;0.7054;cluster bootstrap;none
+Section 10;reliability of the classification;Check 3, violation findings, section, micro f1;0.6571;;;none;none
+Section 10;reliability of the classification;Check 3, violation findings, section, macro f1;0.4995;;;none;none
+Section 10;reliability of the classification;Check 1, violation findings, class, micro f1;0.2475;0.2336;0.2627;cluster bootstrap;none
+Section 10;reliability of the classification;Check 3, violation findings, class, micro f1;0.3285;;;none;none
+Section 10;reliability of the classification;Check 3, violation findings, class, macro f1;0.1655;;;none;none
+Section 10;ex-ante control;documentation, sections 2-4, rows with a violation;903;;;none;none
+Section 10;ex-ante control;documentation, sections 2-4, reports;333;;;none;none
+Section 10;ex-ante control;documentation, sections 2-4, rows in the ADFI's words;876;0.9568;0.9794;Wilson;none
+Section 10;ex-ante control;documentation, sections 2-4, rows read from the provision;37;;;none;none
+Section 10;ex-ante control;four documentation acts, 4.01 3.01 3.02 2.02, rows with a violation;607;;;none;none
+Section 10;ex-ante control;four documentation acts, 4.01 3.01 3.02 2.02, reports;292;;;none;none
+Section 10;ex-ante control;four documentation acts, 4.01 3.01 3.02 2.02, rows in the ADFI's words;598;0.9721;0.9922;Wilson;none
+Section 10;ex-ante control;four documentation acts, 4.01 3.01 3.02 2.02, rows read from the provision;1;;;none;none
+Section 10;ex-ante control;ex-ante control and double signature, 10.01 and 10.02, rows with a violation;42;;;none;none
+Section 10;ex-ante control;ex-ante control and double signature, 10.01 and 10.02, reports;10;;;none;none
+Section 10;ex-ante control;ex-ante control and double signature, 10.01 and 10.02, rows in the ADFI's words;41;0.8768;0.9958;Wilson;none
+Section 10;ex-ante control;ex-ante control and double signature, 10.01 and 10.02, rows read from the provision;2;;;none;none
+Section 10;ex-ante control;conclusion and modification of the contract, sections 7-8, rows with a violation;86;;;none;none
+Section 10;ex-ante control;conclusion and modification of the contract, sections 7-8, reports;76;;;none;none
+Section 10;ex-ante control;conclusion and modification of the contract, sections 7-8, rows in the ADFI's words;85;0.937;0.9979;Wilson;none
+Section 10;ex-ante control;conclusion and modification of the contract, sections 7-8, rows read from the provision;80;;;none;none
+Section 10;ex-ante control;choice of the award procedure, section 1, rows with a violation;27;;;none;none
+Section 10;ex-ante control;choice of the award procedure, section 1, reports;23;;;none;none
+Section 10;ex-ante control;choice of the award procedure, section 1, rows in the ADFI's words;12;0.2759;0.6269;Wilson;none
+Section 10;ex-ante control;choice of the award procedure, section 1, rows read from the provision;10;;;none;none
+Section 10;ex-ante control;direct award, 1.02, rows with a violation;12;;;none;none
+Section 10;ex-ante control;direct award, 1.02, reports;8;;;none;none
+Section 10;ex-ante control;direct award, 1.02, rows in the ADFI's words;0;0.0;0.2425;Wilson;none
+Section 10;ex-ante control;direct award, 1.02, rows read from the provision;0;;;none;none
+Section 10;ex-ante control;launching, section 5, rows with a violation;8;;;none;none
+Section 10;ex-ante control;launching, section 5, reports;8;;;none;none
+Section 10;ex-ante control;launching, section 5, rows in the ADFI's words;3;0.1368;0.6943;Wilson;none
+Section 10;ex-ante control;launching, section 5, rows read from the provision;0;;;none;none
+Section 10;ex-ante control;publicity and dossier, section 9, rows with a violation;125;;;none;none
+Section 10;ex-ante control;publicity and dossier, section 9, reports;82;;;none;none
+Section 10;ex-ante control;publicity and dossier, section 9, rows in the ADFI's words;110;0.8114;0.9259;Wilson;none
+Section 10;ex-ante control;publicity and dossier, section 9, rows read from the provision;17;;;none;none
+Section 10;ex-ante control;payments under other statutes, section 11, rows with a violation;7;;;none;none
+Section 10;ex-ante control;payments under other statutes, section 11, reports;4;;;none;none
+Section 10;ex-ante control;payments under other statutes, section 11, rows in the ADFI's words;5;0.3589;0.9178;Wilson;none
+Section 10;ex-ante control;payments under other statutes, section 11, rows read from the provision;0;;;none;none
+Section 10;ex-ante control;sections 1, 5, 9 and 11 together, rows with a violation;167;;;none;none
+Section 10;ex-ante control;sections 1, 5, 9 and 11 together, reports;106;;;none;none
+Section 10;ex-ante control;sections 1, 5, 9 and 11 together, rows in the ADFI's words;130;0.7096;0.8348;Wilson;none
+Section 10;ex-ante control;sections 1, 5, 9 and 11 together, rows read from the provision;27;;;none;none
+Section 10;ex-ante control;internal procedure for ex-ante control, 10.03, rows with a violation;1;;;none;none
+Section 10;ex-ante control;internal procedure for ex-ante control, 10.03, reports;1;;;none;none
+Section 10;ex-ante control;internal procedure for ex-ante control, 10.03, rows in the ADFI's words;0;0.0;0.7935;Wilson;none
+Section 10;ex-ante control;internal procedure for ex-ante control, 10.03, rows read from the provision;0;;;none;none
+Section 10;ex-ante control;Art. 237b PPA, 10.04, rows with a violation;0;;;none;none
+Section 10;ex-ante control;Art. 237b PPA, 10.04, reports;0;;;none;none
+Section 10;ex-ante control;Art. 237b PPA, 10.04, rows in the ADFI's words;0;;;none;none
+Section 10;ex-ante control;Art. 237b PPA, 10.04, rows read from the provision;0;;;none;none

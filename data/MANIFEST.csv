@@ -1,9 +1,11 @@
 file;size_bytes;sha256;source;date
 data/adfi_classification.csv;977933;5b7aa7a71f373917276828d85856133a292ba37467939da734971c199dc04e0f;Fetched from beluhov/stem-collusion-npvu at commit c5feef1 (SHA-256 checked);2026-11-17
+data/adfi_classification_verbatim.csv;3388089;d66e6c58ea7957a0f9d3b983dcdc2f916b7e83dd7b715f39b23f3e7573307bdb;"Basis and conclusion of the ADFI beside every row of the classification table, in the words of the reports, names replaced by [име] (Section 2.2.7; SHA-256 checked)";2026-11-17
 data/adfi_reports_meta.csv;214462;fb0913ce014ae9d01837277ed959f39f09ab6b6f4bb874be9802892392208bb1;Prepared when the data were prepared (Section 2.2.4) from the register and the texts of the 560 reports;2026-11-17
 data/derived/class_concentration.csv;6206;ec9c5dd8ec67cd41f0075418e17ab051fe930a34a64cdb4e897bfd3c8c8402d1;Table written by this notebook;2026-11-17
 data/derived/classification_row_provenance.csv;1338;f03e2cc4d078d78ca90ebf4c86097cbdcfd6f21300b599174d24a06b841d58af;Table written by this notebook;2026-11-17
 data/derived/classifier_classes.csv;14491;04e1bd91a696a241c544ca6c4c2bc6db2fe21d2a71a84f151db5359a59391c39;Built in Section 2.2.7 from the classifier definition and the classification table;2026-11-17
+data/derived/conclusions_summary.csv;15018;1ef1c09be5e1fd765a7cdd459ffd49b9ebb4f5d3181d8b6cd68352e2ce8e989c;Table written by this notebook;2026-11-17
 data/derived/ex_ante_control_by_class.csv;512;da21be4277f50236138f8a30e5890e3557a0f71fbcd6777f73c81e9773f7f778;Table written by this notebook;2026-11-17
 data/derived/h1a_sensitivity.csv;340;7d3386f0dfbc97e42b35bb24bf6080147e81bc7732d8fa33ecb7d185a4730048;Table written by this notebook;2026-11-17
 data/derived/heterogeneity_by_class.csv;1377;6c73cfa5dd333f37993e54673b6561b02369f725a5cf9c64e806f826aed65268;Table written by this notebook;2026-11-17
@@ -26,5 +28,3 @@ fig/F6_reconciliation.png;101404;b9ff3e3e55794e974ac28048ad2d68d7c89536ddc0352c7
 fig/F7_rule_f1_ci.png;127702;ee75df56f133591d5ddb3d5756027ef7bb09487308e4bf2cf51bd099f365fe80;Figure drawn by this notebook;2026-11-17
 fig/F8_class_concentration.png;235626;bea5c82c690ec41755d3e31b4f688879bc99fe234c0b3a0b350d0dfe75943a30;Figure drawn by this notebook;2026-11-17
 fig/F9_directorate_shares.png;194364;f307cdc4f649a646ac37616d3340c99c866930fd8ac6c393bde1a81c77abf027;Figure drawn by this notebook;2026-11-17
-validation/sample_blind.csv;7678;711d4146e731fd997a52371f78d400ca15b701519846358990e49b3edae17134;"Drawn in Section 4.2.3; the column manual_class_index is empty for the annotator";2026-11-17
-validation/sample_design.csv;684;190d74481805e70b073ddf342d3f3302036bbc4ac298d1620151f03be5851ea1;Size of the sample in each stratum (Section 4.2.2), written in Section 4.2.3 after the draw;2026-11-17
